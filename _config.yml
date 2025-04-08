@@ -25,7 +25,7 @@ title: Constantine Zurayk
 tagline: This is a draft for an exhibit about Constantine Zurayk
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "This is a collection about the life and works of the great late Constantine Zurayk"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Sha287
 
@@ -34,7 +34,7 @@ author: Sha287
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: 03_LIS2222_ItemCollectionInventory_ShadenAlDada
+metadata: cz_exhibitone
 
 ##########
 # Site/Organization Branding 
